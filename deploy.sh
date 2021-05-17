@@ -10,7 +10,7 @@ npm run build
 cd docs/.vuepress/dist
 
 # deploy to github pages
-# echo 'b.xugaoyi.com' > CNAME
+echo 'jsdsaa.noransu.cn' > CNAME
 
 if [ -z "$GITHUB_TOKEN" ]; then
   msg='deploy'
@@ -27,7 +27,7 @@ git commit -m "${msg}"
 git push -f $githubUrl master:gh-pages # 推送到github gh-pages分支
 
 # deploy to coding pages
-# echo 'www.xugaoyi.com\nxugaoyi.com' > CNAME  # 自定义域名
+# echo 'www.jsdsaa.noransu.cn\noransu.com' > CNAME  # 自定义域名
 # echo 'google.com, pub-7828333725993554, DIRECT, f08c47fec0942fa0' > ads.txt # 谷歌广告相关文件
 
 # if [ -z "$CODING_TOKEN" ]; then  # -z 字符串 长度为0则为true；$CODING_TOKEN来自于github仓库`Settings/Secrets`设置的私密环境变量
