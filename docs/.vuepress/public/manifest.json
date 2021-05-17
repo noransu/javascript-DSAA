@@ -1,0 +1,20 @@
+{
+  "name": "Javascript 数据结构与算法",
+  "short_name": "JS-DSAA",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#28272C",
+  "description": "用Javascript来介绍数据结构与算法",
+  "icons": [
+    {
+      "src": "/img/favicon.ico",
+      "sizes": "48x48",
+      "type": "image/ico"
+    },
+    {
+      "src": "/img/favicon.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
