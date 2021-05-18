@@ -8,7 +8,7 @@ module.exports = {
 
   title: "Javascript 数据结构与算法",
   description: 'Javascript 数据结构与算法',
-  // base: '/javascript-DSAA/', // 格式：'/<仓库名>/'， 默认'/'
+  base: '/javascript-DSAA/', // 格式：'/<仓库名>/'， 默认'/'
   markdown: {
     lineNumbers: true, // 代码行号
   },
