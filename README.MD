@@ -18,21 +18,25 @@
 > 与普通的网页使用无异，下面主要介绍pwa
 
 - 电脑上打开地址，通过图中的选项可以添加到桌面
-![image](https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/image.6dracvg0fd00.png)
+<img src="https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/image.6dracvg0fd00.png" width="75%">
 
 > 手机上的话safari以及UC浏览器都是支持的，即通过下面的操作将网页保留到桌面，并缓存页面内容
 
 - 首页打开页面
-![image](https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/WechatIMG546.5akeai6u4b40.jpeg)
+
+<img src="https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/WechatIMG546.5akeai6u4b40.jpeg" width="40%">
 
 - 选择添加到主屏幕
-![image](https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/WechatIMG547.2faht2v70jwg.jpeg)
+
+<img src="https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/WechatIMG547.2faht2v70jwg.jpeg" width="40%">
 
 - 选择确定
-![image](https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/WechatIMG548.29bxwb2455no.jpeg)
+
+<img src="https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/WechatIMG548.29bxwb2455no.jpeg" width="40%">
 
 - 成功添加到桌面，离线状态下也能看到页面所有内容
-![image](https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/WechatIMG549.2r7p68f2kf80.jpeg)
+
+<img src="https://cdn.jsdelivr.net/gh/noransu/images-myown@master/noransImage/WechatIMG549.2r7p68f2kf80.jpeg" width="40%">
 
 ## 鸣谢
 
